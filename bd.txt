@@ -1,4 +1,4 @@
 bd: 09tQ6faYiutN6GaC
 
-url:
-apikey:
+url: https://tuaurrzurxdtafsywivg.supabase.co
+apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR1YXVycnp1cnhkdGFmc3l3aXZnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDcwNjE0NjEsImV4cCI6MjA2MjYzNzQ2MX0.ASucl9BkqGA6RKFJHl9DhkZc0h4ntAyIyYoIdeeK58M
