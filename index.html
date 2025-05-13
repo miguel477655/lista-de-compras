@@ -7,14 +7,18 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h2 class="titulo">minha lista de compras/h2>
+    <h2 class="titulo">Minha lista de Compras</h2>
 
-        <button onclick="logout()">sair</button>
-    
-        <ul id="lista"></ul>
+    <!--botão para sair da conta-->
+    <button onclick="logout()">Sair</button>
 
-        <input type=" name="" id="item" placeholder="novo item">
-        <button onclick="adicionaritem()">adicionar</button>
-        <script> type="module" src="app.js"></script>
+    <!--lista onde os itens serão renderizados-->
+    <ul id="lista"></ul>
+
+    <!--input e botão para incluir itens-->
+    <input type="text" name="" id="item" placeholder="Novo Item">
+    <button onclick="adicionarItem()" >Adicionar</button>
+
+    <script type="module" src="app.js"></script>
 </body>
 </html>
