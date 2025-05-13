@@ -1,4 +1,3 @@
-
 import { supabase } from './supabaseClient.js'
 
 // Recupera o usuário logado. Redireciona para login se não estiver autenticado.
