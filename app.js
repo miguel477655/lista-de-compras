@@ -63,7 +63,10 @@ getUser().then(carregarLista)
 // inter funciona para adicionar item
 
 document.addEventListener('keydown'),function (event) {
-  if (event.key === 'enter') {
-  if(event.key) === 'Enter') {
+  if (event.key === 'Enter') {
+     if (event.key) === 'Enter') {
     adicionarItem()
+    
+      }
+    }
   }
