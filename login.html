@@ -7,13 +7,16 @@
     <link rel="stylesheet" href="login.css">
 </head>
 <body>
-    <buttom>
+    <div class="container">
         <h2>Login</h2>
         <input type="email" id="email" placeholder="Email">
         <input type="password" id="senha" placeholder="Senha">
-        <button onclick="login()">Entrar</button>
-        <button onclick="cadastro()">Cadastrar</button>
-    </buttom>
+        <div class="botoes">
+            <button onclick="login()">Entrar</button>
+            <button onclick="cadastro()">Cadastrar</button>
+        </div>
+    </div>
+
 
     <script type="module" src="auth.js"></script>
 </body>
