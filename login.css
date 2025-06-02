@@ -100,10 +100,11 @@ button::after{
     .container{
         padding: 1.5rem;
     }
-}
+
 
 input, button {
 
     font-size: 0.95rem;
 }
     
+}
